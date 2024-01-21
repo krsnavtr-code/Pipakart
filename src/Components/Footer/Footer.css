@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+    color: white;
+}
+footer {
+  background-color: #232f3e;
+}
+footer:not(:first-child) {
+  border-top: 1px solid rgb(255, 255, 255, 0.1);
+}
+footer .input-group-text {
+    background-color: #232f3e;
+    color: white;
+}
